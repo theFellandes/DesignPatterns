@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\bin\Debug\net5.0\BTK-Adapter.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\bin\Debug\net5.0\BTK-Adapter.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\bin\Debug\net5.0\BTK-Adapter.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\bin\Debug\net5.0\BTK-Adapter.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\bin\Debug\net5.0\BTK-Adapter.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\bin\Debug\net5.0\ref\BTK-Adapter.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\bin\Debug\net5.0\BTK-Adapter.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\ref\BTK-Adapter.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Adapter\obj\Debug\net5.0\BTK-Adapter.genruntimeconfig.cache

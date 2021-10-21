@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\bin\Debug\net5.0\BTK-Builder.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\bin\Debug\net5.0\BTK-Builder.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\bin\Debug\net5.0\BTK-Builder.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\bin\Debug\net5.0\BTK-Builder.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\bin\Debug\net5.0\BTK-Builder.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\bin\Debug\net5.0\ref\BTK-Builder.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\bin\Debug\net5.0\BTK-Builder.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\ref\BTK-Builder.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Builder\obj\Debug\net5.0\BTK-Builder.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\bin\Debug\net5.0\BTK-AbstractFactory.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\bin\Debug\net5.0\BTK-AbstractFactory.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\bin\Debug\net5.0\BTK-AbstractFactory.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\bin\Debug\net5.0\BTK-AbstractFactory.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\bin\Debug\net5.0\BTK-AbstractFactory.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\bin\Debug\net5.0\ref\BTK-AbstractFactory.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\bin\Debug\net5.0\BTK-AbstractFactory.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\ref\BTK-AbstractFactory.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-AbstractFactory\obj\Debug\net5.0\BTK-AbstractFactory.genruntimeconfig.cache

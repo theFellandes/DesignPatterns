@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\bin\Debug\net5.0\BTK-Facade.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\bin\Debug\net5.0\BTK-Facade.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\bin\Debug\net5.0\BTK-Facade.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\bin\Debug\net5.0\BTK-Facade.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\bin\Debug\net5.0\BTK-Facade.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\bin\Debug\net5.0\ref\BTK-Facade.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\bin\Debug\net5.0\BTK-Facade.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\ref\BTK-Facade.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Facade\obj\Debug\net5.0\BTK-Facade.genruntimeconfig.cache

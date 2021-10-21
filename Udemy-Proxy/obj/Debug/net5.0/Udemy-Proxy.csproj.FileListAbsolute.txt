@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\bin\Debug\net5.0\Udemy-Proxy.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\bin\Debug\net5.0\Udemy-Proxy.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\bin\Debug\net5.0\Udemy-Proxy.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\bin\Debug\net5.0\Udemy-Proxy.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\bin\Debug\net5.0\Udemy-Proxy.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\bin\Debug\net5.0\ref\Udemy-Proxy.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\bin\Debug\net5.0\Udemy-Proxy.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\ref\Udemy-Proxy.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\Udemy-Proxy\obj\Debug\net5.0\Udemy-Proxy.genruntimeconfig.cache
