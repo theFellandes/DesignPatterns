@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\bin\Debug\net5.0\BTK-Mediator.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\bin\Debug\net5.0\BTK-Mediator.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\bin\Debug\net5.0\BTK-Mediator.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\bin\Debug\net5.0\BTK-Mediator.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\bin\Debug\net5.0\BTK-Mediator.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\bin\Debug\net5.0\ref\BTK-Mediator.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\bin\Debug\net5.0\BTK-Mediator.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\ref\BTK-Mediator.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Mediator\obj\Debug\net5.0\BTK-Mediator.genruntimeconfig.cache

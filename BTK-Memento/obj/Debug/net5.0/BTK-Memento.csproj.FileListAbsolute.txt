@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\bin\Debug\net5.0\BTK-Memento.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\bin\Debug\net5.0\BTK-Memento.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\bin\Debug\net5.0\BTK-Memento.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\bin\Debug\net5.0\BTK-Memento.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\bin\Debug\net5.0\BTK-Memento.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\bin\Debug\net5.0\ref\BTK-Memento.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\bin\Debug\net5.0\BTK-Memento.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\ref\BTK-Memento.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Memento\obj\Debug\net5.0\BTK-Memento.genruntimeconfig.cache

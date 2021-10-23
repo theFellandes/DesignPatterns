@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\bin\Debug\net5.0\BTK-Observer.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\bin\Debug\net5.0\BTK-Observer.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\bin\Debug\net5.0\BTK-Observer.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\bin\Debug\net5.0\BTK-Observer.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\bin\Debug\net5.0\BTK-Observer.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\bin\Debug\net5.0\ref\BTK-Observer.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\bin\Debug\net5.0\BTK-Observer.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\ref\BTK-Observer.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Observer\obj\Debug\net5.0\BTK-Observer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\bin\Debug\net5.0\BTK-TemplateMethod.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\bin\Debug\net5.0\BTK-TemplateMethod.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\bin\Debug\net5.0\BTK-TemplateMethod.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\bin\Debug\net5.0\BTK-TemplateMethod.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\bin\Debug\net5.0\BTK-TemplateMethod.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\bin\Debug\net5.0\ref\BTK-TemplateMethod.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\bin\Debug\net5.0\BTK-TemplateMethod.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\ref\BTK-TemplateMethod.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-TemplateMethod\obj\Debug\net5.0\BTK-TemplateMethod.genruntimeconfig.cache
