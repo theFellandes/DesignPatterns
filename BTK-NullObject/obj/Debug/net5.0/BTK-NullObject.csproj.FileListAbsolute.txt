@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\bin\Debug\net5.0\BTK-NullObject.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\bin\Debug\net5.0\BTK-NullObject.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\bin\Debug\net5.0\BTK-NullObject.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\bin\Debug\net5.0\BTK-NullObject.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\bin\Debug\net5.0\BTK-NullObject.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\bin\Debug\net5.0\ref\BTK-NullObject.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\bin\Debug\net5.0\BTK-NullObject.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\ref\BTK-NullObject.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-NullObject\obj\Debug\net5.0\BTK-NullObject.genruntimeconfig.cache

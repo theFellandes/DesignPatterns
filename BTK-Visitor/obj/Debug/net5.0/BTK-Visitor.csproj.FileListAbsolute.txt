@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\bin\Debug\net5.0\BTK-Visitor.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\bin\Debug\net5.0\BTK-Visitor.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\bin\Debug\net5.0\BTK-Visitor.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\bin\Debug\net5.0\BTK-Visitor.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\bin\Debug\net5.0\BTK-Visitor.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\bin\Debug\net5.0\ref\BTK-Visitor.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\bin\Debug\net5.0\BTK-Visitor.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\ref\BTK-Visitor.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Visitor\obj\Debug\net5.0\BTK-Visitor.genruntimeconfig.cache

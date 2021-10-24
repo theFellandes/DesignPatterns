@@ -40,6 +40,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-Mediator", "BTK-Mediato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-Command", "BTK-Command\BTK-Command.csproj", "{7580F494-1B2F-48CF-B267-BE8AD52EE58F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-Visitor", "BTK-Visitor\BTK-Visitor.csproj", "{32203C2D-22E7-4675-B381-04185E214B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-DependencyInjection", "BTK-DependencyInjection\BTK-DependencyInjection.csproj", "{DE19E26A-8ADE-4A69-AEB0-0785618E9E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-NullObject", "BTK-NullObject\BTK-NullObject.csproj", "{DF651E65-621F-469F-AB82-EDECCE78415F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-Multiton", "BTK-Multiton\BTK-Multiton.csproj", "{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +134,21 @@ Global
 		{7580F494-1B2F-48CF-B267-BE8AD52EE58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7580F494-1B2F-48CF-B267-BE8AD52EE58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7580F494-1B2F-48CF-B267-BE8AD52EE58F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32203C2D-22E7-4675-B381-04185E214B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32203C2D-22E7-4675-B381-04185E214B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32203C2D-22E7-4675-B381-04185E214B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32203C2D-22E7-4675-B381-04185E214B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE19E26A-8ADE-4A69-AEB0-0785618E9E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE19E26A-8ADE-4A69-AEB0-0785618E9E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE19E26A-8ADE-4A69-AEB0-0785618E9E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE19E26A-8ADE-4A69-AEB0-0785618E9E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF651E65-621F-469F-AB82-EDECCE78415F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF651E65-621F-469F-AB82-EDECCE78415F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF651E65-621F-469F-AB82-EDECCE78415F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF651E65-621F-469F-AB82-EDECCE78415F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

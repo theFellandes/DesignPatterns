@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\bin\Debug\net5.0\BTK-DependencyInjection.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\bin\Debug\net5.0\BTK-DependencyInjection.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\bin\Debug\net5.0\BTK-DependencyInjection.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\bin\Debug\net5.0\BTK-DependencyInjection.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\bin\Debug\net5.0\BTK-DependencyInjection.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\bin\Debug\net5.0\ref\BTK-DependencyInjection.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\bin\Debug\net5.0\BTK-DependencyInjection.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\ref\BTK-DependencyInjection.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-DependencyInjection\obj\Debug\net5.0\BTK-DependencyInjection.genruntimeconfig.cache

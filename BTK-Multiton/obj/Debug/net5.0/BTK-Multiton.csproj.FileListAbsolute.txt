@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\bin\Debug\net5.0\BTK-Multiton.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\bin\Debug\net5.0\BTK-Multiton.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\bin\Debug\net5.0\BTK-Multiton.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\bin\Debug\net5.0\BTK-Multiton.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\bin\Debug\net5.0\BTK-Multiton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\bin\Debug\net5.0\ref\BTK-Multiton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\bin\Debug\net5.0\BTK-Multiton.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\ref\BTK-Multiton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\BTK-Multiton\obj\Debug\net5.0\BTK-Multiton.genruntimeconfig.cache
