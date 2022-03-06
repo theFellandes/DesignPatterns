@@ -2,6 +2,7 @@
 
 namespace UdemyLazySingleton.LazySingleton
 {
+    // Unprotected against multithreading
     public class LazySingleton
     {
         private static LazySingleton _singleton;
