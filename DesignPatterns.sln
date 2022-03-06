@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-NullObject", "BTK-NullO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-Multiton", "BTK-Multiton\BTK-Multiton.csproj", "{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemySingleton", "UdemySingleton\UdemySingleton.csproj", "{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F2B31D-2491-47DB-A2B8-3057C93A4F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

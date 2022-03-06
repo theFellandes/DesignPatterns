@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\bin\Debug\net5.0\UdemySingleton.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\bin\Debug\net5.0\UdemySingleton.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\bin\Debug\net5.0\UdemySingleton.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\bin\Debug\net5.0\UdemySingleton.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\bin\Debug\net5.0\UdemySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\bin\Debug\net5.0\ref\UdemySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\bin\Debug\net5.0\UdemySingleton.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\ref\UdemySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemySingleton\obj\Debug\net5.0\UdemySingleton.genruntimeconfig.cache
