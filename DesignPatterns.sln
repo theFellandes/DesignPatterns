@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTK-Multiton", "BTK-Multito
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemySingleton", "UdemySingleton\UdemySingleton.csproj", "{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdemyLazySingleton", "UdemyLazySingleton\UdemyLazySingleton.csproj", "{C15A8B13-FD7C-42FB-B0FD-FDDE9C5986D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,9 @@ Global
 		{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D94EE6C8-4365-4FF9-BD3E-1BCDA4A4FA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15A8B13-FD7C-42FB-B0FD-FDDE9C5986D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15A8B13-FD7C-42FB-B0FD-FDDE9C5986D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15A8B13-FD7C-42FB-B0FD-FDDE9C5986D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15A8B13-FD7C-42FB-B0FD-FDDE9C5986D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
