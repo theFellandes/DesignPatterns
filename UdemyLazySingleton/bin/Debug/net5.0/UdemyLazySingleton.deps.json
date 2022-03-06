@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UdemyLazySingleton/1.0.0": {
+        "runtime": {
+          "UdemyLazySingleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UdemyLazySingleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

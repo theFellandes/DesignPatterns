@@ -1,0 +1,16 @@
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\bin\Debug\net5.0\UdemyLazySingleton.exe
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\bin\Debug\net5.0\UdemyLazySingleton.deps.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\bin\Debug\net5.0\UdemyLazySingleton.runtimeconfig.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\bin\Debug\net5.0\UdemyLazySingleton.runtimeconfig.dev.json
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\bin\Debug\net5.0\UdemyLazySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\bin\Debug\net5.0\ref\UdemyLazySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\bin\Debug\net5.0\UdemyLazySingleton.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.csproj.AssemblyReference.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.AssemblyInfoInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.AssemblyInfo.cs
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.csproj.CoreCompileInputs.cache
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\ref\UdemyLazySingleton.dll
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.pdb
+C:\Users\Fellandes\RiderProjects\DesignPatterns\UdemyLazySingleton\obj\Debug\net5.0\UdemyLazySingleton.genruntimeconfig.cache
